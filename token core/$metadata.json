@@ -1,0 +1,10 @@
+{
+  "tokenSetOrder": [
+    "colors",
+    "spacing",
+    "sizing",
+    "fonts",
+    "base",
+    "dark"
+  ]
+}
