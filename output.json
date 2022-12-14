@@ -1,0 +1,121 @@
+{
+  "10": {
+    "value": "12px",
+    "type": "lineHeights"
+  },
+  "20": {
+    "value": "14px",
+    "type": "lineHeights"
+  },
+  "small": {
+    "value": "2px",
+    "type": "spacing"
+  },
+  "tiny": {
+    "value": "4px",
+    "type": "sizing"
+  },
+  "inter": {
+    "value": "Inter",
+    "type": "fontFamilies"
+  },
+  "regular": {
+    "value": 400,
+    "type": "fontWeights"
+  },
+  "semibold": {
+    "value": 600,
+    "type": "fontWeights"
+  },
+  "loose": {
+    "value": "1%",
+    "type": "letterSpacing"
+  },
+  "tight": {
+    "value": "-1%",
+    "type": "letterSpacing"
+  },
+  "font-size": {
+    "10": {
+      "value": "12px",
+      "type": "fontSizes"
+    },
+    "20": {
+      "value": "16px",
+      "type": "fontSizes"
+    }
+  },
+  "Body copy": {
+    "value": {
+      "fontFamily": "Inter",
+      "fontWeight": 400,
+      "lineHeight": "14px",
+      "fontSize": "12px",
+      "letterSpacing": "1%",
+      "paragraphSpacing": ""
+    },
+    "type": "typography"
+  },
+  "Body bold": {
+    "value": {
+      "fontFamily": "Inter",
+      "fontWeight": 600,
+      "lineHeight": "14px",
+      "fontSize": "16px",
+      "letterSpacing": "-1%"
+    },
+    "type": "typography"
+  },
+  "primary": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "secondary": {
+    "value": "#9a9a9a",
+    "type": "color"
+  },
+  "black": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "white": {
+    "value": "#fff",
+    "type": "color"
+  },
+  "gray": {
+    "50": {
+      "value": "#cbcbcb",
+      "type": "color"
+    },
+    "100": {
+      "value": "#9a9a9a",
+      "type": "color"
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "colors",
+      "type": "other"
+    },
+    "1": {
+      "value": "spacing",
+      "type": "other"
+    },
+    "2": {
+      "value": "sizing",
+      "type": "other"
+    },
+    "3": {
+      "value": "fonts",
+      "type": "other"
+    },
+    "4": {
+      "value": "base",
+      "type": "other"
+    },
+    "5": {
+      "value": "dark",
+      "type": "other"
+    }
+  }
+}
