@@ -1,0 +1,10 @@
+{
+  "primary": {
+    "value": "{black}",
+    "type": "color"
+  },
+  "secondary": {
+    "value": "{gray.100}",
+    "type": "color"
+  }
+}
