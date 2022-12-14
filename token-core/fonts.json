@@ -7,6 +7,10 @@
     "value": "14px",
     "type": "lineHeights"
   },
+  "30": {
+    "value": "28px",
+    "type": "lineHeights"
+  },
   "inter": {
     "value": "Inter",
     "type": "fontFamilies"
@@ -35,6 +39,10 @@
     "20": {
       "value": "16px",
       "type": "fontSizes"
+    },
+    "30": {
+      "value": "24px",
+      "type": "fontSizes"
     }
   },
   "Body copy": {
@@ -54,6 +62,16 @@
       "fontWeight": "{semibold}",
       "lineHeight": "{20}",
       "fontSize": "{font-size.20}",
+      "letterSpacing": "{tight}"
+    },
+    "type": "typography"
+  },
+  "Heading": {
+    "value": {
+      "fontFamily": "{inter}",
+      "fontWeight": "{semibold}",
+      "lineHeight": "{30}",
+      "fontSize": "{font-size.30}",
       "letterSpacing": "{tight}"
     },
     "type": "typography"
